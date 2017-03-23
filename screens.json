@@ -974,6 +974,18 @@
 		"dppx": 2
 	},
 	{
+		"name": "Samsung Xcover 2",
+		"w": 480,
+		"h": 800,
+		"d": 4
+	},
+	{
+		"name": "Samsung Xcover 3",
+		"w": 480,
+		"h": 800,
+		"d": 4.5
+	},
+	{
 		"name": "Sony Xperia Miro",
 		"w": 320,
 		"h": 480,
